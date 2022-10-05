@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/reactportfoliojunaid/static/css/main.273c3421.css",
+    "main.js": "/reactportfoliojunaid/static/js/main.1abb0f41.js",
+    "static/media/ecommerce.PNG": "/reactportfoliojunaid/static/media/ecommerce.15755ac78c64462c0d88.PNG",
+    "static/media/sidebar.PNG": "/reactportfoliojunaid/static/media/sidebar.55409bc7964c6bd472de.PNG",
+    "static/media/junaid1.png": "/reactportfoliojunaid/static/media/junaid1.4cc13158eddff4b29287.png",
+    "static/media/resume.pdf": "/reactportfoliojunaid/static/media/resume.40ee90bd9f1ad55b599c.pdf",
+    "static/media/musicapp.PNG": "/reactportfoliojunaid/static/media/musicapp.98e95087845b5947cccd.PNG",
+    "static/media/glassesimoji.png": "/reactportfoliojunaid/static/media/glassesimoji.a08bdab12e8eb56a6874.png",
+    "static/media/humble.png": "/reactportfoliojunaid/static/media/humble.c8b32b53675e68978981.png",
+    "static/media/heartemoji.png": "/reactportfoliojunaid/static/media/heartemoji.26b1b6ed5e0e44083b28.png",
+    "static/media/wave.png": "/reactportfoliojunaid/static/media/wave.fdfef4069ad90f610990.png",
+    "static/media/crown.png": "/reactportfoliojunaid/static/media/crown.dbe416beae9b49b842ab.png",
+    "static/media/Vector2.png": "/reactportfoliojunaid/static/media/Vector2.28db5bfd58081dd1df1b.png",
+    "static/media/glasses.png": "/reactportfoliojunaid/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
+    "index.html": "/reactportfoliojunaid/index.html",
+    "main.273c3421.css.map": "/reactportfoliojunaid/static/css/main.273c3421.css.map",
+    "main.1abb0f41.js.map": "/reactportfoliojunaid/static/js/main.1abb0f41.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.273c3421.css",
+    "static/js/main.1abb0f41.js"
+  ]
+}
